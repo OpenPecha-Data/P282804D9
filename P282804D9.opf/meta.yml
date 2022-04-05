@@ -1,0 +1,31 @@
+id: P282804D9
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG12059
+  instance_id: http://purl.bdrc.io/resource/IE1KG12059
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - འབུམ་ཁུ་ཚུར།
+  alt_title:
+    zh-hans:
+    - 藏医八支论之精要奔科策
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0d29b92c58b341d2a9df795957f5c3ac:
+      title: པོད ༡་འབུམ་ཁུ་ཚུར།
+      volume_number: 1
+      base_file: UT1KG12059_I1KG13625_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8D35314F78AF5026
+      image_group: I1KG13625
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG12059
+  - http://purl.bdrc.io/resource/W1KG12059
+  ocr_software: Namsel
+created_at: '2021-12-22T10:32:29.987425'
+last_modified_at: '2021-12-22T10:32:29.987432'
